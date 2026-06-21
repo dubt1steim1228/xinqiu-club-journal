@@ -1,2 +1,14 @@
 # xinqiu-club-journal
-HTML page archive and documentation
+
+静态页面发布集合
+
+本仓库记录页面发布结果，页面文件会按任务追加保存。
+
+## 文件说明
+
+- `README.md`：仓库说明
+- `*.html`：发布后的独立页面
+
+## 维护说明
+
+页面内容会根据发布任务逐步追加，具体状态以提交记录为准。
